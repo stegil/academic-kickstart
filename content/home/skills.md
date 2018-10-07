@@ -24,19 +24,19 @@ weight = 7
 [[feature]]
   icon = ""
   icon_pack = ""
-  name = "Workday"
-  description = "Integrations"
+  name = "Workday Integrations"
+  description = "Studio, Enterprise Interface Builder (EIB), Payroll Integration (PICOF), Payroll Enhanced Connector (PECI), Document Transformation, Cloud Connect for Benefits (CCB), Cloud Connect for Payroll (CCP), REST, XSLT, WWS"
   
 [[feature]]
   icon = ""
   icon_pack = ""
-  name = "Workday"
-  description = "Reporting"  
+  name = "Workday Functional Areas"
+  description = "HCM, US Payroll, Benefits, Compensation, Integrations,"  
   
 [[feature]]
   icon = ""
   icon_pack = ""
-  name = "Workday"
-  description = "Reporting, Integrations, Payroll, Reporting, Integrations, Payroll, Reporting, Integrations, Payroll, Reporting, Integrations, Payroll"
+  name = "Additional"
+  description = "Project Management, Python, Microsoft Office Suite, XML, XSLT"
 
 +++
