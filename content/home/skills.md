@@ -37,6 +37,6 @@ weight = 7
   icon = ""
   icon_pack = ""
   name = "Workday"
-  description = "Reporting, Integrations, Payroll"
+  description = "Reporting, Integrations, Payroll, Reporting, Integrations, Payroll, Reporting, Integrations, Payroll, Reporting, Integrations, Payroll"
 
 +++
